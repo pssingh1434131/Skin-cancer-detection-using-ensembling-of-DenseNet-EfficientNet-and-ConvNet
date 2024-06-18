@@ -15,6 +15,9 @@ which were aggregated into binary classes. The final classification was done usi
 The results favored ensembling of the models along with the superior individual model performance of DenseNet201.
 Results show that ensembling the models achieved overall accuracy of 96.5% in multiclass and 98.7% in binary classification.
 
+## Research paper
+https://drive.google.com/file/d/1AOsPsFhR_vZiDTDkcbd-Zdd3lw7EUr3V/view?usp=drive_link
+
 ## Dataset:
 - HAM10000: https://www.kaggle.com/datasets/pssingh1434131/ham10000/
 - ISIC2020: https://www.kaggle.com/datasets/pssingh1434131/isic-2020/
