@@ -16,7 +16,7 @@ The results favored ensembling of the models along with the superior individual 
 Results show that ensembling the models achieved overall accuracy of 96.5% in multiclass and 98.7% in binary classification.
 
 ## Research paper
-https://drive.google.com/file/d/1AOsPsFhR_vZiDTDkcbd-Zdd3lw7EUr3V/view?usp=drive_link
+https://drive.google.com/file/d/19AIlfcN7f6odJ8OESzV7HkNQqrxRKJP0/view?usp=sharing
 
 ## Dataset:
 - HAM10000: https://www.kaggle.com/datasets/pssingh1434131/ham10000/
