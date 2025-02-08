@@ -1,4 +1,12 @@
-# Skin-Cancer-Classification
+# Skin Cancer Detection Using Ensembling of DenseNet, EfficientNet, and ConvNet
+
+## Research paper
+- Springer nature: https://drive.google.com/file/d/19AIlfcN7f6odJ8OESzV7HkNQqrxRKJP0/view?usp=sharing
+
+## Dataset:
+- HAM10000: https://www.kaggle.com/datasets/pssingh1434131/ham10000/
+- ISIC2020: https://www.kaggle.com/datasets/pssingh1434131/isic-2020/
+- ISIC2019: https://www.kaggle.com/datasets/pssingh1434131/isic-2019/
 
 ## Abstract
 Diagnosis of skin cancer in early stage plays vital role in increasing its survival rate. Advancement in Artificial intelligence
@@ -14,14 +22,6 @@ methods were applied to improve class balancing. The model's layered architectur
 which were aggregated into binary classes. The final classification was done using ensembling of the three models used.
 The results favored ensembling of the models along with the superior individual model performance of DenseNet201.
 Results show that ensembling the models achieved overall accuracy of 96.5% in multiclass and 98.7% in binary classification.
-
-## Research paper
-https://drive.google.com/file/d/19AIlfcN7f6odJ8OESzV7HkNQqrxRKJP0/view?usp=sharing
-
-## Dataset:
-- HAM10000: https://www.kaggle.com/datasets/pssingh1434131/ham10000/
-- ISIC2020: https://www.kaggle.com/datasets/pssingh1434131/isic-2020/
-- ISIC2019: https://www.kaggle.com/datasets/pssingh1434131/isic-2019/
 
 ## Model Architecture
 ![image](https://github.com/pssingh1434131/Skin-Cancer-Classification/assets/97393064/626af3e5-fe2d-4c7e-a9f4-518985a8c4f2)
